@@ -1,4 +1,4 @@
-# findmyhat
+# Find my hat - JavaScript assessment
 
 ## What did you like about this project?
 This assignment challenged my understanding of JavaScript and I had to apply several concepts such as classes, 2D arrays, while loops, control flow, functions, variables and booleans. I enjoyed breaking down the task into smaller sub-tasks and to try to think of the mechanics of the game before writing the code.
